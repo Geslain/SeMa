@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:Geslain/SeMa-api.git
+	branch = main
+[submodule "client"]
+	path = client
+	url = git@github.com:Geslain/SeMa-client.git
+	branch = main
+
